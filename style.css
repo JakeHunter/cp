@@ -55,10 +55,7 @@
   text-align: center;
   padding: 10px;
 }
-#footer{
-    display: table;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
+footer { 
+  display: flex; 
+  justify-content: center; 
+} 
